@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# military_transition_guid to complement https://www.militarytransition.vet/
+# military_transition_guide to complement https://www.militarytransition.vet/
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,12 +11,12 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[An app to complement this website I donated to veteran service offices. There will be buttons which give access to a checklist guiding a service member to tasks which should be completed at certain timeframes counting down from 18 months.]
+An app to complement this website I donated to veteran service offices. There will be buttons which give access to a checklist guiding a service member to tasks which should be completed at certain timeframes counting down from 18 months.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** A checklist type guide
-- **Mobile:** Mobile only but can link to a main website for another reference.
+- **Category:** An interactive checklist guide
+- **Mobile:** Mobile only but can link to website for another reference.
 - **Story:** It allows a user to enter a guide applicable to how far along they are from exiting the military.
 - **Market:** Military members 
 - **Habit:** Daily updates 
@@ -24,7 +24,7 @@ Original App Design Project - README Template
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
+### 1. User Stories
 
 **Required Must-have Stories**
 
@@ -48,13 +48,11 @@ Original App Design Project - README Template
    * Select a time frame
 	* Enter checklist
 	* Edit or add items
+	* Back to main
 
 
 ### 3. Navigation
-
-
-
-**Flow Navigation** (Screen to Screen)
+**Flow Navigation** 
 
 * Select timeframe
 * Edit/update milestones
@@ -63,12 +61,8 @@ Original App Design Project - README Template
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="wireframe.jpg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
