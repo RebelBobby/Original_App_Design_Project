@@ -70,10 +70,32 @@ An app to complement this website I donated to veteran service offices. There wi
 
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | View task       | String   | List displayed to user  |
+   | Add task    | String | Author adds task |
+   | Download    | .txt file| User can dowload list |
+   | Delete   | Delete| User can delete a list |
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+#### List of network requests by screen
+   - This app wont interact with a database.
+
+
+#### [OPTIONAL:] Existing API Endpoints
+##### Still planning. Not sure if I will utilize API features.
+<img src="project.png" width=300>
+
+
+- Base URL - See project. 
+
+   HTTP Verb | Endpoint | Description
+   ----------|----------|------------
+    `GET`    | /inwork | still planning
+
+
+
+   
