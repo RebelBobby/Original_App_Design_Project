@@ -64,8 +64,8 @@ An app to complement this website I donated to veteran service offices. There wi
 <img src="wireframe.jpg" width=600>
 
 [BONUS] Digital Wireframes & Mockups
-<img src="bonus.png">
-<img src="bonus1.png">
+<img src="Bonus.png">
+<img src="Bonus1.png">
 
 
 
