@@ -1,4 +1,6 @@
-Original App Design Project - README Template
+Original App Design Project - README Template (Update 4/16/22)
+Other than me, there is only 1 student left in my class; there is no “group”.
+We’re both working our own app. However, please find below gif showing progress as I have a steady plan
 ===
 
 # military_transition_guide to complement https://www.militarytransition.vet/
@@ -69,7 +71,8 @@ An app to complement this website I donated to veteran service offices. There wi
 
 
 
-## Schema 
+## Progress
+<img src="progress.gif" width=200>
 ### Models
 #### Post
 
