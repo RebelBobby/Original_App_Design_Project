@@ -1,5 +1,5 @@
 Original App Design Project - (Update 4/21/22)
-There is no “group”. It's just me and only 1 student left.
+There is no “group”. There is only me and only 1 student remaining.
 We’re both working our own app. However, please find below gif showing progress.
 ===
 
