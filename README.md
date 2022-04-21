@@ -1,6 +1,6 @@
-Original App Design Project - README Template (Update 4/16/22)
-Other than me, there is only 1 student left in my class; there is no “group”.
-We’re both working our own app. However, please find below gif showing progress as I have a steady plan
+Original App Design Project - (Update 4/21/22)
+There is no “group”. It's just me and only 1 student left.
+We’re both working our own app. However, please find below gif showing progress.
 ===
 
 # military_transition_guide to complement https://www.militarytransition.vet/
@@ -13,16 +13,16 @@ We’re both working our own app. However, please find below gif showing progres
 
 ## Overview
 ### Description
-An app to complement this website I donated to veteran service offices. There will be buttons which give access to a checklist guiding a service member to tasks which should be completed at certain timeframes counting down from 18 months.
+An app to complement the above website which I donated to veteran service offices. There will be buttons which give access to a checklist guiding a soon separating service member at key timeframes counting down from 18 months.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** An interactive checklist guide
 - **Mobile:** Mobile only but can link to website for another reference.
 - **Story:** It allows a user to enter a guide applicable to how far along they are from exiting the military.
-- **Market:** Military members 
-- **Habit:** Daily updates 
-- **Scope:** It could be given to transitioning service members at their during their appointments. 
+- **Market:** Military members.
+- **Habit:** Daily reference.
+- **Scope:** It could be given to transitioning service members during their military outprocessing appointments.
 
 ## Product Spec
 
@@ -42,9 +42,7 @@ An app to complement this website I donated to veteran service offices. There wi
 
 * Stories of successful or unsuccessful transitions out of the military.
 
-
 ### 2. Screen Archetypes
-
 
 * A dashboard of all the key timeframes
    * Select a time frame
@@ -73,6 +71,7 @@ An app to complement this website I donated to veteran service offices. There wi
 
 ## Progress
 <img src="progress.gif" width=200>
+
 ### Models
 #### Post
 
@@ -92,8 +91,7 @@ An app to complement this website I donated to veteran service offices. There wi
 ##### Still planning. Not sure if I will utilize API features.
 <img src="project.png" width=300>
 
-
-- Base URL - See project. 
+- Base URL - See project.
 
    HTTP Verb | Endpoint | Description
    ----------|----------|------------
