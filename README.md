@@ -2,7 +2,8 @@ Original App Design Project - (Update 4/21/22)
 There is no “group”. There is only me and only 1 student remaining.
 We’re both working our own app. However, please find below gif showing progress.
 ===
-# I made some pretty good headway. see gif and project updates below.
+# I made some pretty good headway. see gif and project updates https://github.com/users/RebelBobby/projects/2
+ below.
 # military_transition_guide to complement https://www.militarytransition.vet/
 
 ## Table of Contents
@@ -90,6 +91,10 @@ I made some pretty good headway. I just have to continue to plug away at the con
 
 #### [OPTIONAL:] Existing API Endpoints
 ##### Still planning. Need to incorparate project said above project milestones
+
+https://github.com/users/RebelBobby/projects/2
+
+
 <img src="project.png" width=500>
 
 - Base URL - See project.
