@@ -70,7 +70,7 @@ An app to complement the above website which I donated to veteran service office
 
 
 ## Progress
-<img src="progress3.gif" width=300>
+<img src="progress3.gif" width=500>
 
 ### Models
 #### Post
