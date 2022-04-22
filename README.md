@@ -2,7 +2,7 @@ Original App Design Project - (Update 4/21/22)
 There is no “group”. There is only me and only 1 student remaining.
 We’re both working our own app. However, please find below gif showing progress.
 ===
-
+# I made some pretty good headway. I just have to continue to plug away at the content.
 # military_transition_guide to complement https://www.militarytransition.vet/
 
 ## Table of Contents
