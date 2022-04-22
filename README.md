@@ -2,7 +2,7 @@ Original App Design Project - (Update 4/21/22)
 There is no “group”. There is only me and only 1 student remaining.
 We’re both working our own app. However, please find below gif showing progress.
 ===
-# I made some pretty good headway. I just have to continue to plug away at the content.
+# I made some pretty good headway. see gif and project updates below.
 # military_transition_guide to complement https://www.militarytransition.vet/
 
 ## Table of Contents
@@ -90,7 +90,7 @@ I made some pretty good headway. I just have to continue to plug away at the con
 
 #### [OPTIONAL:] Existing API Endpoints
 ##### Still planning. Not sure if I will utilize API features.
-<img src="project.png" width=300>
+<img src="project.png" width=500>
 
 - Base URL - See project.
 
