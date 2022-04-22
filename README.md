@@ -89,7 +89,7 @@ I made some pretty good headway. I just have to continue to plug away at the con
 
 
 #### [OPTIONAL:] Existing API Endpoints
-##### Still planning. Not sure if I will utilize API features.
+##### Still planning. Need to incorparate project said above project milestones
 <img src="project.png" width=500>
 
 - Base URL - See project.
