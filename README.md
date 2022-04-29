@@ -1,6 +1,6 @@
 Original App Design Project - (Update 4/28/22)
-I have to redo my app. There is no “group”. There is only me and only 1 student remaining.
-We’re both working our own app. However, please find below gif showing progress.
+
+I have to redo my app. However, please find below gif showing progress.
 ===
 # I made some pretty good headway. see gif and project updates https://github.com/users/RebelBobby/projects/2
  below.
