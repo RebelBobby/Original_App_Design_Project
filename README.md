@@ -1,12 +1,12 @@
 Original App Design Project - (Update 5/3/22)
 
-I had to redo my app multiple times… I ran out of time. …
+I had to redo my app multiple times… I ran out of time. But this is whats finished …
 
 
 
 
 ===
-# I made some pretty good headway. see gif and project updates https://github.com/users/RebelBobby/projects/2
+# Project board https://github.com/users/RebelBobby/projects/2
  below.
 # military_transition_guide to complement https://www.militarytransition.vet/
 
