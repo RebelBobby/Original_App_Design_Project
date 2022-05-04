@@ -1,6 +1,10 @@
-Original App Design Project - (Update 4/28/22)
+Original App Design Project - (Update 5/3/22)
 
-I have to redo my app. However, please find below gif showing progress.
+I had to redo my app multiple times… I ran out of time. …
+<img src="appFinal1.gif" width=600>
+
+
+
 ===
 # I made some pretty good headway. see gif and project updates https://github.com/users/RebelBobby/projects/2
  below.
