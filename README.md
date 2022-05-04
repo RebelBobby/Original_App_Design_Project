@@ -10,7 +10,7 @@ I had to redo my app multiple times… I ran out of time. But this is whats fini
  below.
 # military_transition_guide to complement https://www.militarytransition.vet/
 
-<img src="appFinal1.gif" width=600>
+<img src="appFinal1.gif" width=800>
 
 ## Table of Contents
 1. [Overview](#Overview)
